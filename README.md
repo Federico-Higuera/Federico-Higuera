@@ -1,10 +1,26 @@
-<h1 align="center">Hi 👋, I'm Federico Higuera</h1>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/federicohiguera/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/federicohiguera/" height="30" width="40" /></a>
-</p>
+<h1 align="left" style="font-family: Arial;">Hi 👋, I'm Federico Higuera </h1>
+
+**Industrial Engineer** with a **Master's degree in Data Analytics**. My knowledge of Business Analytics enables me to translate data into tangible benefits for business processes and decisions. With a practical and technical approach, I harness advanced analytics to uncover hidden opportunities and optimize effectiveness. 
+
+<center>
+  <h3>🗣️ &nbsp; Contact me, chat or just exchange an idea</h3>
+  <a href="https://www.linkedin.com/in/federicohiguera/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/128/1384/1384014.png" width="50" height="50"/>
+  </a>
+  <a href="mailto:federico.higuera@outlook.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/128/6129/6129053.png" width="50" height="50" />
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=573193211135" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/128/1384/1384007.png" width="50" height="50" />
+  </a>
+</center>
 
 <h3 align="left">Programming Languajes:</h3>
+<p align="left"> 
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
 <p align="left"> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
